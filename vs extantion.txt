@@ -1,0 +1,70 @@
+//After Extantion 
+1.Dark-Dracula Theme/ 1337 Theme/ Arkham Theme
+2.Error Lens
+3.Es7+React/Redu...
+4.icon Fonts
+5.Material Icon 
+6.WordPress Hocks
+7.WordPress Snippets
+
+
+1. Auto rename tag
+
+2. bootstrap 4 font 
+
+3. Bootstrap 5 Quick Snippets
+
+4. html-less-class
+
+5. intelliSense for (link and flash icon) (emmet search)
+
+6. html to css autocompletion
+. html css support
+7. wordpress snipts
+
+8. Bracket paier
+
+9. prettier 
+
+10.Css Flexbox
+
+11.Css Grid Snippets
+
+12. CSS Tree
+
+13. Css Auto prefix
+
+14.Live server
+
+15.Sass
+
+16.JavaScript (ES6) code snippets
+
+17.JavaScript Snippet Pack
+
+18.Live Sass Compiler
+
+19.PHP Debug
+
+20.PHP DocBlocker
+
+21.PHP Extantion pack
+
+22.PHP Intelephense
+23. PHP Snippets vs code
+24. PHP Snippets from PHPStrom
+25. PH Snippets
+26. PHP  Namespace resolver
+27. PHP IntelliSense
+23. css compressor
+
+23.WordPress Hooks IntelliSense
+
+24.Wordpress Snippets
+
+
+//JavaScript
+1. JavaScrit (es6) code snippes
+2. JavaScrit Snippets pack
+3. es7+ react/redux/React-Native
+
